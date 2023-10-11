@@ -1,6 +1,6 @@
 # United States Refugee Data Analysis
 
-This a Python project about the Unitewd States refugee analysis. There are five main questions in this project: 
+This a Python project about the United States refugee analysis. There are five main questions in this project: 
 
 - From which countries has the United States admitted the highest number of refugees?
 - What are the total number of resettled refugees in the United States per year?
